@@ -1,1 +1,1 @@
-# multi-class-code-snipet
+# multi-class-code-snipet (Digital Image Processing)
